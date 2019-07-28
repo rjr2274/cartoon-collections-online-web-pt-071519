@@ -21,5 +21,5 @@ def find_the_cheese(array)
     if cheese == "cheddar" || "gouda" || "camembert"
       return cheese
   end
-  
+
 end
