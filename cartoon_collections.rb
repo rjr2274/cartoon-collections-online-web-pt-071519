@@ -1,10 +1,9 @@
-require "pry"
 def roll_call_dwarves(array)
   array.each do |dwarf|
     puts dwarf
   end
 end
-binding.pry
+
 def summon_captain_planet# code an argument here
   # Your code here
 end
