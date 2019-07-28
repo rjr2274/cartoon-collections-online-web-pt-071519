@@ -24,8 +24,6 @@ def find_the_cheese(array)
        return "camembert"
      elsif cheese == "gouda"
        return "gouda"
-     else
-      return array
     end
   end
 
