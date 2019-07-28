@@ -18,9 +18,8 @@ end
 
 def find_the_cheese(array)
   array.any? do |cheese|
-     cheese.include?("cheddar" or "gouda" or "camembert") 
+     cheese.include?("cheddar" or "gouda" or "camembert")
       return cheese
-    end
   end
 
 end
